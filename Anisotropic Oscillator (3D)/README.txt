@@ -1,0 +1,1 @@
+Separable, mechanical Hamiltonian system
